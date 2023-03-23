@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<Deterministic>false</Deterministic>
+		<PackageId>Lokeryt.PowerCollections</PackageId>
+		<Version>0.0.2-beta</Version>
+		<Authors>Lokeryt</Authors>
+		<PackageDescription>Lokeryt.PowerCollections package</PackageDescription>
+    <RepositoryUrl>https://github.com/Lokeryt/DevTools_Lab02</RepositoryUrl>
+	</PropertyGroup>
+
+</Project>

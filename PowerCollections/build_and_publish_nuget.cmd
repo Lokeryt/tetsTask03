@@ -1,0 +1,2 @@
+dotnet pack --configuration Release
+dotnet nuget push "%~dp0PowerCollections\bin\Release\Lokeryt.PowerCollections.*.nupkg" --api-key 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 --source "https://nuget.pkg.github.com/Lokeryt/index.json"
